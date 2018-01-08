@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2018. Yang Chen
+ */
+
 package com.boostshore;
 
 public class Main {
